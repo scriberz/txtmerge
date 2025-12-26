@@ -5,7 +5,7 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-git clone https://github.com/yourusername/txt-merger-site.git
+git clone https://github.com/scriberz/txt-merger-site.git
 cd txt-merger-site
 
 2. Установите зависимости:
